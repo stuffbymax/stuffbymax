@@ -2,7 +2,7 @@
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=stuffbymax&show_icons=true&theme=onedark&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuffbymax&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on bash-pac and gnu nano cheatsheet website translation
-- 🌱 I’m currently learning basic
+- 🌱 and somtimes trying basic
 <!--
 **stuffbymax/stuffbymax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
