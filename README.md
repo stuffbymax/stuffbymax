@@ -5,14 +5,7 @@
 - 💻 and somtimes trying basic
 - 🤔 I’m looking for help with any project because it takes time to make good code
 
-
-
-
--- ah, one more thing: i use arch btw
-
-
-
-
+ah, one more thing: i use arch btw
 ```
        
 
@@ -56,6 +49,7 @@
  /   |  |   \
 /_-''    ''-_\ 
 ```
+
 <!--
 **stuffbymax/stuffbymax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
