@@ -7,13 +7,14 @@
 
 ah, one more thing: i use arch btw
 ```
-<span style="color:red">      /\</span>
-<span style="color:red">     /  \</span>
-<span style="color:red">    /    \</span>
-<span style="color:red">   /      \</span>
-<span style="color:red">  /   ,,   \</span>
-<span style="color:red"> /   |  |   \</span>
-<span style="color:red">/_-''    ''-_\</span>
+\033[31m/\033[0m\
+\033[31m/  \033[0m\
+\033[31m/    \033[0m\
+\033[31m/      \033[0m\
+\033[31m/   ,,   \033[0m\
+\033[31m/   |  |   \033[0m\
+\033[31m/_-''    ''-_\033[0m\
+
 ```
 
 <!--
