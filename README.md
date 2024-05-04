@@ -6,7 +6,8 @@
 - 🤔 I’m looking for help with any project because it takes time to make good code
 
 ah, one more thing: i use arch btw
-                                          I USE ARCH BTW
+```
+  I USE ARCH BTW
                                             I I USE ARCH BTW
                                            I U I USE ARCH BTWOAT
                                           I USE I USE ARCH BTWOAT
@@ -32,7 +33,21 @@ ah, one more thing: i use arch btw
                             UBUNTU IS BLOAT                           UBUNTU IS BLOAT
 
 
-```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       /\
      /  \
     /    \
