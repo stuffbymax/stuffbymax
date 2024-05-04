@@ -7,14 +7,7 @@
 
 ah, one more thing: i use arch btw
 ```
-      /\
-     /  \
-    /    \
-   /      \
-  /   ,,   \
- /   |  |   \
-/_-''    ''-\
-
+![ASCII Art](https://path_to_your_image_file/image.png)
 
 ```
 
