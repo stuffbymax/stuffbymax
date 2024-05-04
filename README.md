@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with any project because it takes time to make good code
 
 ah, one more thing: i use arch btw
+```
 <span style="color:red">      /\</span>
 <span style="color:red">     /  \</span>
 <span style="color:red">    /    \</span>
