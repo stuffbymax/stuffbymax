@@ -1,6 +1,5 @@
-
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=stuffbymax&show_icons=true&theme=onedark&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuffbymax&theme=onedark)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=stuffbymax&show_icons=true&theme=onedark&layout=compact)
 - 👷‍♂️ I am working
 - 💻 and somtimes trying bash and python
 - 🤔 I’m looking for help with any project because it takes time to make good code
