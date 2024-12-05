@@ -12,6 +12,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/Gitlab-black?style=flat-square&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git&logoColor=white)
+![Hugo](https://img.shields.io/badge/Hugo-ff4088.svg?style=flat-square&logo=hugo&logoColor=white)
+
 
 
 ### Programming Languages:
