@@ -20,7 +20,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=flat-square&logo=JSON&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=CSS3&logoColor=white)
-![bash](https://img.shields.io/badge/bash-000000.svg?style=flat-square&logo=Bash&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-000000.svg?style=flat-square&logo=Bash&logoColor=white)
 
 
 ### Operating Systems
