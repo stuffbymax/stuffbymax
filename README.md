@@ -24,7 +24,7 @@
 
 
 ### Operating Systems
-- ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows%20XP&logoColor=blue)
+![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows%20XP&logoColor=blue)
   - Windows 98
   - Windows XP
   - Windows Vista
@@ -33,7 +33,7 @@
   - Windows 10
   - Windows 11
 
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   - Ubuntu
   - Debian
   - Arch
@@ -52,10 +52,11 @@
   - Alpine Linux
   - Ubuntu Server
   - Gentoo
+
 ### Phone Operating systems
   
-- ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
-- ![Android](https://img.shields.io/badge/Fireos-3DDC84?style=for-the-badge&logo=Fireos&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
+![Android](https://img.shields.io/badge/Fireos-3DDC84?style=for-the-badge&logo=Fireos&logoColor=white)
 
 - 👷‍♂️ I am working
 - 💻 and somtimes trying bash and python
