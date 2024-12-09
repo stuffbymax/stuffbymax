@@ -17,6 +17,8 @@
 ![GitLab](https://img.shields.io/badge/Gitlab-black?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
 ![Hugo](https://img.shields.io/badge/Hugo-ff4088.svg?style=for-the-badge&logo=hugo&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
 ---
 
