@@ -67,6 +67,9 @@
 - Tiny Core Linux
 - Alpine Linux
 - Void Linux
+- Kubuntu
+
+---
 ## **Unix-like Systems** ##
  ![BSD](https://img.shields.io/badge/BSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
  ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
