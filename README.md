@@ -36,46 +36,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Unix](https://img.shields.io/badge/Unix--like-333333?style=for-the-badge&logo=unix&logoColor=white)
 
-**Windows Versions:**
-- Windows 98
-- Windows XP
-- Windows Vista
-- Windows 7
-- Windows 8/8.1
-- Windows 10
-- Windows 11
-
-**Linux Distributions:**
-- Ubuntu
-- Debian
-- Arch
-- Fedora
-- Linux Mint
-- Manjaro
-- openSUSE
-- Lubuntu
-- Xubuntu
-- Puppy Linux
-- antiX
-- Bodhi Linux
-- Kali Linux
-- Parrot Security OS
-- Slackware
-- Alpine Linux
-- Ubuntu Server
-- Gentoo
-- Tiny Core Linux
-- Alpine Linux
-- Void Linux
-- Kubuntu
-
 ---
-## **Unix-like Systems** ##
- ![BSD](https://img.shields.io/badge/BSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
- ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
- ![Haiku OS](https://img.shields.io/badge/Haiku%20OS-FFD700?style=for-the-badge&logo=haiku&logoColor=white)
 
----
 
 
 ### **Phone Operating Systems**
