@@ -52,20 +52,6 @@
 - 🤔 I’m looking for help with any project because it takes time to make good code
 - 😄 Pronouns: Panzer 35(t)
 - How to reach me: "no email :)"
-
-**ah, one more thing:**
-
-```
-      /\
-     /  \
-    /    \                       _     _
-   /      \                     | |__ | |___      __
-  /   ,,   \                    | '_ \| __\ \ /\ / /
- /   |  |   \       _   _   _   | |_) | |_ \ V  V /
-/_-''    ''-_\     (_) (_) (_)  |_.__/ \__| \_/\_/
-```
-
-
 <!--
 
 Here are some ideas to get you started:
