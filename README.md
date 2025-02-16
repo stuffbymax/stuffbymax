@@ -46,12 +46,8 @@
 ![Symbian OS](https://img.shields.io/badge/Symbianos%20OS-FF9900?style=for-the-badge&logo=SymbianOS&logoColor=white)
 
 ---
-
-- 👷‍♂️ I am working
-- 💻 and somtimes trying bash and python
-- 🤔 I’m looking for help with any project because it takes time to make good code
 - 😄 Pronouns: Panzer 35(t)
-- How to reach me: "no email :)"
+- martinp6282@gmail.com
 <!--
 
 Here are some ideas to get you started:
