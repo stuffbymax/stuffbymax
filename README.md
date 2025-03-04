@@ -46,8 +46,9 @@
 ![Symbian OS](https://img.shields.io/badge/Symbianos%20OS-FF9900?style=for-the-badge&logo=SymbianOS&logoColor=white)
 
 ---
-- 😄 Pronouns: Panzer 35(t)
-- martinp6282@gmail.com
+😄 Pronouns: Panzer 35(t)
+--
+email: martinp6282@gmail.com
 <!--
 
 Here are some ideas to get you started:
