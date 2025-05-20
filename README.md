@@ -29,6 +29,7 @@
 ### **Programming Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MicroPython](https://img.shields.io/badge/MicroPython-2D3E50?style=for-the-badge&logo=micropython&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
