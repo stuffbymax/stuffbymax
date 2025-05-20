@@ -19,6 +19,10 @@
 ![Hugo](https://img.shields.io/badge/Hugo-ff4088.svg?style=for-the-badge&logo=hugo&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![GDevelop](https://img.shields.io/badge/GDevelop-4A90E2?style=for-the-badge&logo=gdevelop&logoColor=white)
+![Jailbreaking](https://img.shields.io/badge/Jailbreaking-4A90E2?style=for-the-badge&logo=hackaday&logoColor=white)
+
+
 
 ---
 
@@ -44,6 +48,12 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 ![Fire OS](https://img.shields.io/badge/Fire%20OS-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 ![Symbian OS](https://img.shields.io/badge/Symbianos%20OS-FF9900?style=for-the-badge&logo=SymbianOS&logoColor=white)
+
+```
+to be made
+### **Intrest**
+![Jailbreaking](https://img.shields.io/badge/Jailbreaking-4A90E2?style=for-the-badge&logo=hackaday&logoColor=white)
+```
 
 ---
 😄 Pronouns: Panzer 35(t)
