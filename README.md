@@ -11,7 +11,7 @@
 
 ---
 
-### **Frameworks & Libraries**
+### **Frameworks & Libraries &  Tools**
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/Gitlab-black?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -20,7 +20,9 @@
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![GDevelop](https://img.shields.io/badge/GDevelop-4A90E2?style=for-the-badge&logo=gdevelop&logoColor=white)
-![Jailbreaking](https://img.shields.io/badge/Jailbreaking-4A90E2?style=for-the-badge&logo=hackaday&logoColor=white)
+![Flowgorithm](https://img.shields.io/badge/Flowgorithm-4A90E2?style=for-the-badge&logo=flowgorithm&logoColor=white)
+![VMBox](https://img.shields.io/badge/VMBox-008080?style=for-the-badge&logo=virtualbox&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-CC0000?style=for-the-badge&logo=qemu&logoColor=white)
 
 
 
