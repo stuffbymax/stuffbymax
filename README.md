@@ -36,12 +36,18 @@
 
 ---
 
-### **Operating Systems**
+### Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=Windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Unix](https://img.shields.io/badge/Unix--like-333333?style=for-the-badge&logo=unix&logoColor=white)
 
----
+<details>
+<summary>Click to see versions/distros</summary>
+
+- Windows 98, XP, Vista, 7, 8/8.1, 10, 11  
+- Ubuntu, Debian, Arch, Fedora, Linux Mint, Manjaro, openSUSE, Lubuntu, Xubuntu, Puppy Linux, antiX, Bodhi Linux, Kali Linux, Parrot Security OS, Slackware, Alpine Linux, Ubuntu Server, Gentoo, FreeBSD,OpenBSD, BeeOS,Haiku
+
+</details>
 
 
 
@@ -50,11 +56,11 @@
 ![Fire OS](https://img.shields.io/badge/Fire%20OS-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 ![Symbian OS](https://img.shields.io/badge/Symbianos%20OS-FF9900?style=for-the-badge&logo=SymbianOS&logoColor=white)
 
-```
+<!--
 to be made
 ### **Intrest**
 ![Jailbreaking](https://img.shields.io/badge/Jailbreaking-4A90E2?style=for-the-badge&logo=hackaday&logoColor=white)
-```
+-->
 
 ---
 😄 Pronouns: Panzer 35(t)
