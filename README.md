@@ -23,6 +23,7 @@
 ![Flowgorithm](https://img.shields.io/badge/Flowgorithm-4A90E2?style=for-the-badge&logo=flowgorithm&logoColor=white)
 ![VMBox](https://img.shields.io/badge/VMBox-008080?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![QEMU](https://img.shields.io/badge/QEMU-CC0000?style=for-the-badge&logo=qemu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 
@@ -50,6 +51,12 @@
 - Ubuntu, Debian, Arch, Fedora, Linux Mint, Manjaro, openSUSE, Lubuntu, Xubuntu, Puppy Linux, antiX, Bodhi Linux, Kali Linux, Parrot Security OS, Slackware, Alpine Linux, Ubuntu Server, Gentoo, FreeBSD,OpenBSD, BeeOS,Haiku
 
 </details>
+
+### Environment Setup
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![i3](https://img.shields.io/badge/i3-222222?style=for-the-badge&logo=i3&logoColor=white)
+![XFCE](https://img.shields.io/badge/XFCE4-2C2C2C?style=for-the-badge&logo=xfce&logoColor=white)
+![Geany](https://img.shields.io/badge/Geany-0F6AC0?style=for-the-badge&logo=geany&logoColor=white)
 
 
 
