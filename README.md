@@ -71,9 +71,6 @@ to be made
 ![Jailbreaking](https://img.shields.io/badge/Jailbreaking-4A90E2?style=for-the-badge&logo=hackaday&logoColor=white)
 -->
 
----
-😄 Pronouns: Panzer 35(t)
---
 email: martinp6282@gmail.com
 <!--
 
