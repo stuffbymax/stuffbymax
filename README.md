@@ -39,11 +39,12 @@
 
 ---
 
-### **JSON & Data Formats**
+### **Markdown Data Formats**
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
 ![TOML](https://img.shields.io/badge/TOML-000000?style=for-the-badge&logo=toml&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xml&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
