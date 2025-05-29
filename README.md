@@ -49,7 +49,7 @@
 
 ---
 
-### **Markdown Data Formats**
+### **Markdown & Data Formats**
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
 ![TOML](https://img.shields.io/badge/TOML-000000?style=for-the-badge&logo=toml&logoColor=white)
