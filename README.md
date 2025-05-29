@@ -18,6 +18,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/Gitlab-black?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 #### ⚙️ Static Site Generators & Frameworks
 ![Hugo](https://img.shields.io/badge/Hugo-ff4088.svg?style=for-the-badge&logo=hugo&logoColor=white)
