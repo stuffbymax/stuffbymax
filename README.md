@@ -33,6 +33,7 @@
 ![VMBox](https://img.shields.io/badge/VMBox-008080?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![QEMU](https://img.shields.io/badge/QEMU-CC0000?style=for-the-badge&logo=qemu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white)
 
 
 
