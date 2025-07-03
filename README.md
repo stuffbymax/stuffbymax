@@ -67,8 +67,25 @@
 <details>
 <summary>Click to see versions/distros</summary>
 
-- Windows 98, XP, Vista, 7, 8/8.1, 10, 11  
-- Ubuntu, Debian, Arch, Fedora, Linux Mint, Manjaro, openSUSE, Lubuntu, Xubuntu, Puppy Linux, antiX, Bodhi Linux, Kali Linux, Parrot Security OS, Slackware, Alpine Linux, Ubuntu Server, Gentoo, FreeBSD,OpenBSD, BeeOS,Haiku
+  ## Windows
+- 98
+- XP
+- Vista
+- 7
+- 8/8.1
+- 10
+- 11
+
+## Unix/unix Like
+- Debian-based
+- Arch-based
+- Fedora-based
+- openSUSE-based
+- Independent (e.g., Alpine, Gentoo, Slackware, Puppy)
+- BSD (FreeBSD, OpenBSD)
+- Haiku
+- BeeOS
+
 
 </details>
 
