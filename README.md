@@ -88,24 +88,19 @@
 
 </details>
 
+<!--
 ### Environment Setup
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![i3](https://img.shields.io/badge/i3-222222?style=for-the-badge&logo=i3&logoColor=white)
 ![XFCE](https://img.shields.io/badge/XFCE4-2C2C2C?style=for-the-badge&logo=xfce&logoColor=white)
 ![Geany](https://img.shields.io/badge/Geany-0F6AC0?style=for-the-badge&logo=geany&logoColor=white)
-
+-->
 
 
 ### **Phone Operating Systems**
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 ![Fire OS](https://img.shields.io/badge/Fire%20OS-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 ![Symbian OS](https://img.shields.io/badge/Symbianos%20OS-FF9900?style=for-the-badge&logo=SymbianOS&logoColor=white)
-
-<!--
-to be made
-### **Intrest**
-![Jailbreaking](https://img.shields.io/badge/Jailbreaking-4A90E2?style=for-the-badge&logo=hackaday&logoColor=white)
--->
 
 email: martinp6282@gmail.com
 <!--
@@ -120,6 +115,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-There are only two kinds of languages: The hated one & the one that no one uses
-"you look like the type who disables password login and only trusts key-based authentication when using SSH…so tell me, what do I gotta do to be your id_rsa?
 -->
