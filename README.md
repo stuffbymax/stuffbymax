@@ -81,7 +81,6 @@
 - Arch-based
 - Fedora-based
 - openSUSE-based
-- Independent (e.g., Alpine, Gentoo, Slackware, Puppy)
 - BSD (FreeBSD, OpenBSD)
 - Haiku
 - BeeOS
