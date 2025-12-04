@@ -1,6 +1,7 @@
 ### **GitHub Stats**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuffbymax&theme=onedark)
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=stuffbymax&show_icons=true&theme=onedark&layout=compact)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stuffbymax&theme=onedark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stuffbymax&theme=onedark)
+
 
 ---
 
