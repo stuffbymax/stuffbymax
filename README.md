@@ -1,7 +1,6 @@
 ### **GitHub Stats**
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stuffbymax&theme=github_dark)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stuffbymax&theme=github_dark)
-![commits](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stuffbymax&theme=github_dark) 
 
 
 ---
