@@ -1,8 +1,8 @@
-```
+<!--
 ### **GitHub Stats**
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stuffbymax&theme=github_dark)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stuffbymax&theme=github_dark)
-
+-->
 
 ---
 ```
@@ -105,9 +105,9 @@
 ![Fire OS](https://img.shields.io/badge/Fire%20OS-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 ![Symbian OS](https://img.shields.io/badge/Symbianos%20OS-FF9900?style=for-the-badge&logo=SymbianOS&logoColor=white)
 
-email: martinp6282@gmail.com
+email: nah
 <!--
-
+martinp6282@gmail.com
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
