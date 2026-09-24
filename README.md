@@ -75,11 +75,6 @@
 <summary>Click to see versions/distros</summary>
 
   ## Windows
-- 98
-- XP
-- Vista
-- 7
-- 8/8.1
 - 10
 - 11
 
@@ -87,10 +82,7 @@
 - Debian-based
 - Arch-based
 - Fedora-based
-- openSUSE-based
 - BSD (FreeBSD, OpenBSD)
-- Haiku
-- BeeOS
 
 
 </details>
