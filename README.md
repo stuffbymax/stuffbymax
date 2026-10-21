@@ -1,8 +1,10 @@
 <!--
-### **GitHub Stats**
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stuffbymax&theme=github_dark)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=stuffbymax&theme=github_dark)
 -->
+
+### **GitHub Stats**
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=stuffbymax&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=stuffbymax&show_icons=true&include_all_commits=true&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=stuffbymax&layout=compact&langs_count=6&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=stuffbymax&layout=compact&langs_count=6&theme=transparent)
 
 ---
 
